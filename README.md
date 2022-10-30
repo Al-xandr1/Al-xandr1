@@ -16,7 +16,7 @@
 
 #### Other: 
 
-At postgraduate school, I developed C++ [application](https://github.com/Al-xandr1/DTNResearch) about human mobility models for DTN researching in simulation system OMNeT++. Also here is some of [certificates](https://drive.google.com/drive/folders/1edYKA6GCuG_N8Tv3Or5nQSiWsxlupzr_):
+At postgraduate school, I developed C++ [application](https://github.com/Al-xandr1/DTNResearch) about human mobility models for DTN researching in simulation system OMNeT++. Also here is some of [certificates](https://drive.google.com/drive/folders/1mbyC8gAFQB2ZCF_Hru2lV2v-1anLzO7g):
 - About [Kotlin](https://www.coursera.org/account/accomplishments/certificate/6LAXR9CSKBVG)
 - About [Python](https://www.coursera.org/account/accomplishments/certificate/KCNGNVMYYYLD)
 - About [Kubernetes](https://www.credly.com/badges/2c154132-7682-42e6-8baf-bcda671c207c/public_url)
