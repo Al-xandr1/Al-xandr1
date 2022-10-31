@@ -27,5 +27,14 @@ At postgraduate school, I developed C++ [application](https://github.com/Al-xand
 
   * E-mail:				al-xandr1@yandex.ru
   * Skype:	 			al-xandr1
-  * Telegram: 			al_xandr1
+  * Telegram: 		al_xandr1
+
+### My other accounts:
+
+  * [ResearchGate](https://www.researchgate.net/profile/Alexander_Tsarev5)
+  * [Leetcode](https://leetcode.com/al-xandr1)
+  * [Coursera](https://www.coursera.org/user/ba948ff646afc74f16db18f3384ef2e7)
+  * [Stepic](https://stepik.org/users/79884949)
+  * [LinkedIn](https://www.linkedin.com/in/aleksandr-tsarev-a0039682/)
+  * [Youracclaim](https://www.youracclaim.com/users/aleksandr-tsarev)
 
