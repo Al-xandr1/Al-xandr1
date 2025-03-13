@@ -3,7 +3,7 @@
 
 🔭 I’m working on Sberbank at Samara
 
-🌱 I’m currently learning Go, when I get a free minute :)
+🌱 I’m currently learning Python, when I get a free minute :)
 
 #### Here is a short describe of my skills: 
 
